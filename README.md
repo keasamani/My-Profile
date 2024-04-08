@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keasamani&label=Profile%20views&color=0e75b6&style=flat" alt="keasamani" /> </p>
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/data_with_elvis?s=21&t=l6zeu_edvwntmtw7fgdflg" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/data_with_elvis?s=21&t=l6zeu_edvwntmtw7fgdflg?logo=twitter&style=for-the-badge" alt="https://twitter.com/data_with_elvis?s=21&t=l6zeu_edvwntmtw7fgdflg" /></a> </p>
+
 - 🌱 I’m currently learning **Data Engineering @ Trestle Academy**
 
 - 👨🏼‍🎓 I'm a **Biomedical Science graduate**
