@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/https://twitter.com/data_with_elvis?s=21&t=l6zeu_edvwntmtw7fgdflg" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/data_with_elvis?s=21&t=l6zeu_edvwntmtw7fgdflg?logo=twitter&style=for-the-badge" alt="https://twitter.com/data_with_elvis?s=21&t=l6zeu_edvwntmtw7fgdflg" /></a> </p>
 - 🌱 I’m currently learning **Data Engineering @ Trestle Academy**
 
-- 👯 I’m looking to collaborate on **Data science/ML projects**
+- 👯 I’m looking to collaborate on **Bioinformatics/Data science/ML projects**
 
 - 📫 How to reach me **elvisasamani32@gmail.com**
 <h3 align="left">Connect with me:</h3>
