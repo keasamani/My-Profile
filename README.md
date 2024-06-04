@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/https://twitter.com/data_with_elvis?s=21&t=l6zeu_edvwntmtw7fgdflg" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/data_with_elvis?s=21&t=l6zeu_edvwntmtw7fgdflg?logo=twitter&style=for-the-badge" alt="https://twitter.com/data_with_elvis?s=21&t=l6zeu_edvwntmtw7fgdflg" /></a> </p>
 
 
-👨🏼‍🎓 I am a **Biomedical Science Graduate**
+👨🏼‍🎓 I am a **Biomedical Science Graduate** from the University of Cape Coast
   
 🌱 I am currently learning **Data Engineering @ Trestle Academy**
   
