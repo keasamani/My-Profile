@@ -18,9 +18,8 @@
  **"In the dynamic landscape of biomedical sciences, the transformative power of data emerges as a beacon of hope, offering unparalleled opportunities to decode complex diseases, personalize treatments, accelerate drug discovery, and ultimately, enhance global health outcomes"**
 
 - 📫 How to reach me **elvisasamani32@gmail.com** <a href="https://linkedin.com/in/keasamani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> <a href="https://twitter.com/data_with_elvis?s=21&t=l6zeu_edvwntmtw7fgdflg" target="_blank">
-   <src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
 </a>
-
   
 
 </p>
