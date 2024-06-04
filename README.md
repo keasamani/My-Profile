@@ -27,6 +27,8 @@ My work revolves around analyzing biological data using computational tools and 
   
  👯 I am looking to collaborate on **Bioinformatics/Data science/Machine Learning projects**
 
+ 🌱 **Continuous Learner**: I'm always exploring new techniques and technologies in data science and bioinformatics, eager to stay at the forefront of innovation in these fields.
+
 
 
  
