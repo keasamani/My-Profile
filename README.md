@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, Welcome to my GitHub👨‍💻🧬📊! </h1>
-<h3 align="center"> I am Elvis Kwabena Asamani, a bioinformatician with a strong interest in leveraging data science to advance our understanding of cancer genomics and antimicrobial resistance.</h3> 
+<h3 align="center"> I am Elvis Kwabena Asamani, a bioinformatician with a strong interest in leveraging data science to advance our understanding of pathogen and cancer genomics.</h3> 
 
 My work revolves around analyzing biological data using computational tools and techniques to gain insights into complex biological systems.
 
