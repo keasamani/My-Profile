@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Elvis Kwabena Asamani</h1>
-<h3 align="center">👋 Welcome to my GitHub! I'm passionate about leveraging data to derive meaningful insights and drive informed decision-making. As a skilled data scientist, I specialize in analyzing complex datasets, developing predictive models, and deploying data-driven solutions to solve real-world problems. Feel free to explore my repositories to see examples of my work. Let's connect and collaborate to harness the power of data for transformative solutions!</h3>
+<h1 align="center">Hi, Welcome to my GitHub! </h1>
+<h2 align="center"> I am Elvis Kwabena Asamani</h2>  I'm passionate about leveraging data to derive meaningful insights and drive informed decision-making. As a skilled data scientist, I specialize in analyzing complex datasets, developing predictive models, and deploying data-driven solutions to solve real-world problems. Feel free to explore my repositories to see examples of my work. Let's connect and collaborate to harness the power of data for transformative solutions!
 
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/05/de.gif" >
 
@@ -9,20 +9,20 @@
 <p align="left"> <a href="https://twitter.com/https://twitter.com/data_with_elvis?s=21&t=l6zeu_edvwntmtw7fgdflg" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/data_with_elvis?s=21&t=l6zeu_edvwntmtw7fgdflg?logo=twitter&style=for-the-badge" alt="https://twitter.com/data_with_elvis?s=21&t=l6zeu_edvwntmtw7fgdflg" /></a> </p>
 
 
-- 👨🏼‍🎓 I'm a **Biomedical Science Graduate**
+👨🏼‍🎓 I am a **Biomedical Science Graduate**
   
-- 🌱 I’m currently learning **Data Engineering @ Trestle Academy**
+🌱 I am currently learning **Data Engineering @ Trestle Academy**
   
-- 👯 I’m looking to collaborate on **Bioinformatics/Data science/ML projects**
+ 👯 I am looking to collaborate on **Bioinformatics/Data science/Machine Learning projects**
 
  **"In the dynamic landscape of biomedical sciences, the transformative power of data emerges as a beacon of hope, offering unparalleled opportunities to decode complex diseases, personalize treatments, accelerate drug discovery, and ultimately, enhance global health outcomes"**
 
-- 📫 How to reach me **elvisasamani32@gmail.com**
+- 📫 How to reach me **elvisasamani32@gmail.com** <a href="https://linkedin.com/in/keasamani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> <a href="https://twitter.com/data_with_elvis?s=21&t=l6zeu_edvwntmtw7fgdflg" target="_blank">
+   <src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+</a>
+
   
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/data_with_elvis?s=21&t=l6zeu_edvwntmtw7fgdflg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/data_with_elvis?s=21&t=l6zeu_edvwntmtw7fgdflg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/keasamani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/keasamani" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=keasamani&show_icons=true&locale=en&layout=compact" alt="keasamani" /></p>
 
-**Thank You for Passing through☺️**
+<h2 align="center">Thanks for stopping by! Looking forward to connecting with you.</h2>
