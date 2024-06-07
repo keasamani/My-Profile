@@ -1,13 +1,6 @@
 <h1 align="center">Hi there, Welcome to my GitHub👨‍💻🧬📊! </h1>
 <h3 align="center"> I am Elvis Kwabena Asamani, a bioinformatician with a strong interest in leveraging data science to advance our understanding of pathogen and cancer genomics.</h3> 
 
-My work revolves around analyzing biological data using computational tools and techniques to gain insights into complex biological systems.
-
-🧬 **Bioinformatics Expertise**: As a bioinformatician, I specialize in analyzing genomic, proteomic, and other -omic data to understand biological phenomena, such as gene expression patterns, protein interactions, and genetic variations, with a particular focus on unraveling the mysteries of cancer genomics and antimicrobial resistance.
-
-💻 **Data Science Enthusiast**: With a growing interest in data science, I'm exploring ways to apply machine learning, statistical analysis, and data visualization techniques to enhance my bioinformatics analyses and uncover deeper insights from biological data.
-
-🔬 **Passion for Research**: I'm driven by a curiosity to unravel the mysteries of life through data. Whether it's deciphering the genetic basis of diseases or uncovering evolutionary relationships, I'm dedicated to using computational approaches to contribute to scientific discovery.
 
  **"In the dynamic landscape of biomedical sciences, the transformative power of data emerges as a beacon of hope, offering unparalleled opportunities to decode complex diseases, personalize treatments, accelerate drug discovery, and ultimately, enhance global health outcomes"**
  
@@ -25,13 +18,9 @@ My work revolves around analyzing biological data using computational tools and 
   
 🌱 I am currently learning **Data Engineering @ Trestle Academy**
   
- 👯 I am looking to collaborate on **Bioinformatics/Data science/Machine Learning projects**
-
- 🌱 **Continuous Learner**: I'm always exploring new techniques and technologies in data science and bioinformatics, eager to stay at the forefront of innovation in these fields.
-
-
-
+ 🌱 **Continuous Learner**: I am always exploring new techniques and technologies in data science and bioinformatics, eager to stay at the forefront of innovation in these fields.
  
+  I am looking to collaborate on **Bioinformatics/Data science/Machine Learning projects**
 
 **Feel free to explore my repositories to see my bioinformatics projects and experiments in data science. If you share a passion for leveraging data to advance our understanding of biology, I'd love to connect!**
 
