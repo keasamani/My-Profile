@@ -15,7 +15,8 @@
 
 
 👨🏼‍🎓 I am a **Biomedical Science Graduate** from the University of Cape Coast
-  
+
+📊📈👨‍💻 Your **Data Expert**
 🌱 I am currently learning **Data Engineering @ Trestle Academy**
   
  🌱 **Continuous Learner**: I am always exploring new techniques and technologies in data science and bioinformatics, eager to stay at the forefront of innovation in these fields.
