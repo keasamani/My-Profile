@@ -14,17 +14,13 @@
 <p align="left"> <a href="https://twitter.com/https://twitter.com/data_with_elvis?s=21&t=l6zeu_edvwntmtw7fgdflg" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/data_with_elvis?s=21&t=l6zeu_edvwntmtw7fgdflg?logo=twitter&style=for-the-badge" alt="https://twitter.com/data_with_elvis?s=21&t=l6zeu_edvwntmtw7fgdflg" /></a> </p>
 
 
-👨🏼‍🎓 I am a **Biomedical Science Graduate** from the University of Cape Coast
-
-👨‍💻📊📈    Your **Data Expert**
-
-🌱 I am currently learning **Software Development @ Ghana-India Kofi Annan Centre for Excellence In ICT**
+👨🏼‍🎓 I am currently pursuing my master's degree in Bioinformatics at Georgia State University.
   
 📚 **Continuous Learner**: I am always exploring new techniques and technologies in data science and bioinformatics, eager to stay at the forefront of innovation in these fields.
  
-  I am looking to collaborate on **Bioinformatics/Data science/Machine Learning projects**
+  I am looking to collaborate on **Bioinformatics/Data Science/Machine Learning projects**
 
-**Feel free to explore my repositories to see my bioinformatics projects and experiments in data science. If you share a passion for leveraging data to advance our understanding of biology, I'd love to connect!**
+**Feel free to explore my repositories to see my bioinformatics projects and experiments in data science. If you share a passion for leveraging data to advance our understanding of biology, I would love to connect!**
 
 📫 How to reach me **elvisasamani32@gmail.com** <a href="https://linkedin.com/in/keasamani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> <a href="https://twitter.com/data_with_elvis?s=21&t=l6zeu_edvwntmtw7fgdflg" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
