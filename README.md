@@ -18,7 +18,7 @@
   
 📚 **Continuous Learner**: I am always exploring new techniques and technologies in data science and bioinformatics, eager to stay at the forefront of innovation in these fields.
  
-  I am looking to collaborate on **Bioinformatics/Data Science/Machine Learning projects**
+  I am looking to collaborate on **Bioinformatics/Data Science/Machine Learning** projects
 
 **Feel free to explore my repositories to see my bioinformatics projects and experiments in data science. If you share a passion for leveraging data to advance our understanding of biology, I would love to connect!**
 
