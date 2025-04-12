@@ -16,7 +16,7 @@
 
 👨🏼‍🎓 I am currently pursuing my master's degree in Bioinformatics at Georgia State University.
   
-📚 **Continuous Learner**: I am always exploring new techniques and technologies in data science and bioinformatics, eager to stay at the forefront of innovation in these fields.
+📚  I am always exploring new techniques and technologies in data science and bioinformatics, eager to stay at the forefront of innovation in these fields.
  
   I am looking to collaborate on **Bioinformatics/Data Science/Machine Learning** projects
 
